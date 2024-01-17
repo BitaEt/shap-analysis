@@ -1,5 +1,5 @@
 # shap-analysis
-shap analysis and statistical modeling (random forest, linear regression and svm) for "Understanding Active Transportation to School Behavior in Socioeconomically Disadvantaged Communities: A Machine Learning and SHAP Analysis Approach". (click [here](https://www.mdpi.com/2071-1050/16/1/48) to read the paper)
+shap analysis and statistical modeling (random forest, linear regression and svm) for "Understanding Active Transportation to School Behavior in Socioeconomically Disadvantaged Communities: A Machine Learning and SHAP Analysis Approach". (click [here](https://www.mdpi.com/2071-1050/16/1/48) to read the full paper)
 
 **Data Collection:** The code involves the analysis of surveys created by the National Center for Safe Routes to School. These surveys collect information from parents/guardians about their children's travel behavior, focusing on factors affecting their willingness to walk or bike to school. The dataset used in the research includes responses from 5th to 12th-grade students, gathered from 19 schools between 2009 and 2011.
 
